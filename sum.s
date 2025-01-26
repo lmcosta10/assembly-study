@@ -1,3 +1,5 @@
+; Code for adding two numbers
+
 section .data
     n1 DD 5
     n2 DD 2
